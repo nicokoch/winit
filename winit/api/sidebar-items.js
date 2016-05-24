@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["wayland",""],["x11",""]]});
